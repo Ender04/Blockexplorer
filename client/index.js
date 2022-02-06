@@ -4,9 +4,6 @@ import "./index.scss";
 const server = "http://localhost:3042";
 
 
-const getBtn = document.getElementById("get-btn");
-const getBalance = document.getElementById("get-btn");
-
 var app5 = new Vue({
   el: '#getBlockNr',
   data: {
